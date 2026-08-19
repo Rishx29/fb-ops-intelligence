@@ -1,0 +1,4 @@
+vendor,capacity,fulfillment_accuracy_pct,on_time_pct
+Vendor A,2200,97.5,95.0
+Vendor B,1600,94.0,92.0
+Vendor C,1200,91.0,88.0

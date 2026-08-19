@@ -1,0 +1,22 @@
+
+PROJECT SUBMISSION SUMMARY
+
+Project: F&B Ops Intelligence
+Subtitle: AI-Powered F&B Demand, Ordering & Reconciliation System
+
+Objective:
+Build an AI-enabled operations platform that transforms client meal requirements into recommended vendor orders, monitors delivery and consumption, detects anomalies, and produces operational recommendations.
+
+AI Components:
+- Random Forest demand prediction
+- Isolation Forest anomaly detection
+- AI-style operational recommendation engine
+
+Technology:
+Python, Pandas, NumPy, Scikit-learn, Streamlit, Plotly, Joblib
+
+Business Use Case:
+Reduce manual effort in requirement consolidation, improve demand planning, identify delivery discrepancies, reduce avoidable wastage, and improve vendor performance visibility.
+
+Data:
+Synthetic operational dataset created for demonstration; no confidential company data used.
